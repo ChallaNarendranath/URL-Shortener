@@ -1,1 +1,1 @@
-This is an URL Shortener web application developed using Python, Flask, Jinja, HTML,CSS,JS and Bootstrap. This project makes any URL we wmant to a short name as a code. By using these codes we can access various URLs easily with short forms.
+This is an URL Shortener web application developed using Python, Flask, Jinja, HTML,CSS,JS and Bootstrap. This project makes any URL we want to a short name as a code. By using these codes we can access various URLs easily with short forms.
